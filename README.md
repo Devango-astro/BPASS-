@@ -35,12 +35,4 @@ This repository provides scripts to process BPASS model output files (spectral a
 - Python 3
 - Numpy
 
-## Notes
-
-- The script prints diagnostic info for each file processed.
-- Only `.dat` files matching the naming pattern will be used.
-- Adjust filename patterns or parsing logic if your files follow a different convention.
-
----
-
 For scientific details on BPASS models, see: [BPASS project](https://bpass.auckland.ac.nz/)
