@@ -1,6 +1,6 @@
 # BPASS Spectral Templates Preparation
 
-This repository provides scripts to process BPASS model output files (spectral and starmass .dat files) into a compressed `.npz` template suitable for scientific analysis.
+This repository provides scripts (by the name Template_creating.py) to process BPASS model output files (spectral and starmass .dat files) into a compressed `.npz` template suitable for scientific analysis.
 
 ## Workflow
 
